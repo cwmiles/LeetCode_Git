@@ -1,0 +1,15 @@
+C:\Users\fox6s\Desktop\Curr Working Dir\Knowledge Tree\Leetcode\Leetcode Solutions\Leetcode Solutions\bin\Debug\net7.0\LeetCode_Git.exe
+C:\Users\fox6s\Desktop\Curr Working Dir\Knowledge Tree\Leetcode\Leetcode Solutions\Leetcode Solutions\bin\Debug\net7.0\LeetCode_Git.deps.json
+C:\Users\fox6s\Desktop\Curr Working Dir\Knowledge Tree\Leetcode\Leetcode Solutions\Leetcode Solutions\bin\Debug\net7.0\LeetCode_Git.runtimeconfig.json
+C:\Users\fox6s\Desktop\Curr Working Dir\Knowledge Tree\Leetcode\Leetcode Solutions\Leetcode Solutions\bin\Debug\net7.0\LeetCode_Git.dll
+C:\Users\fox6s\Desktop\Curr Working Dir\Knowledge Tree\Leetcode\Leetcode Solutions\Leetcode Solutions\bin\Debug\net7.0\LeetCode_Git.pdb
+C:\Users\fox6s\Desktop\Curr Working Dir\Knowledge Tree\Leetcode\Leetcode Solutions\Leetcode Solutions\obj\Debug\net7.0\LeetCode_Git.csproj.AssemblyReference.cache
+C:\Users\fox6s\Desktop\Curr Working Dir\Knowledge Tree\Leetcode\Leetcode Solutions\Leetcode Solutions\obj\Debug\net7.0\LeetCode_Git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fox6s\Desktop\Curr Working Dir\Knowledge Tree\Leetcode\Leetcode Solutions\Leetcode Solutions\obj\Debug\net7.0\LeetCode_Git.AssemblyInfoInputs.cache
+C:\Users\fox6s\Desktop\Curr Working Dir\Knowledge Tree\Leetcode\Leetcode Solutions\Leetcode Solutions\obj\Debug\net7.0\LeetCode_Git.AssemblyInfo.cs
+C:\Users\fox6s\Desktop\Curr Working Dir\Knowledge Tree\Leetcode\Leetcode Solutions\Leetcode Solutions\obj\Debug\net7.0\LeetCode_Git.csproj.CoreCompileInputs.cache
+C:\Users\fox6s\Desktop\Curr Working Dir\Knowledge Tree\Leetcode\Leetcode Solutions\Leetcode Solutions\obj\Debug\net7.0\LeetCode_Git.dll
+C:\Users\fox6s\Desktop\Curr Working Dir\Knowledge Tree\Leetcode\Leetcode Solutions\Leetcode Solutions\obj\Debug\net7.0\refint\LeetCode_Git.dll
+C:\Users\fox6s\Desktop\Curr Working Dir\Knowledge Tree\Leetcode\Leetcode Solutions\Leetcode Solutions\obj\Debug\net7.0\LeetCode_Git.pdb
+C:\Users\fox6s\Desktop\Curr Working Dir\Knowledge Tree\Leetcode\Leetcode Solutions\Leetcode Solutions\obj\Debug\net7.0\LeetCode_Git.genruntimeconfig.cache
+C:\Users\fox6s\Desktop\Curr Working Dir\Knowledge Tree\Leetcode\Leetcode Solutions\Leetcode Solutions\obj\Debug\net7.0\ref\LeetCode_Git.dll
