@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\bin",
+    "\\Leetcodeproblems"
   ],
+  "SelectedNode": "\\Leetcodeproblems\\ReverseVowelsOfString.cs",
   "PreviewInSolutionExplorer": false
 }
